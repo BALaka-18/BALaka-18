@@ -16,3 +16,7 @@ I am Balaka Biswas, a 3rd year B.Tech student with a passion for Data Science an
 
 [Telegram](https://t.me/Balaka_18)
 ___________________________________________________________________________________________________________________________________________________________________________________
+
+### Stats :
+
+<img src="https://github-readme-stats.vercel.app/api?username=BALaka-18&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="100%"/>
