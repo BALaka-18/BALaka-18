@@ -6,7 +6,7 @@ I am Balaka Biswas, a 3rd year B.Tech student with a passion for Data Science an
 
 ## Connect with Me
 
-[Portfolio Website](https://balaka2605.wixsite.com/portfolio) 
+[Portfolio Website](https://balaka2605.wixsite.com/home) 
 
 [Blog](https://medium.com/@balaka2605) 
 
