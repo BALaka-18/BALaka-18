@@ -2,11 +2,11 @@
 
 ### Hi there 👋
 
-I am Balaka Biswas, a 3rd year B.Tech student with a passion for Data Science and Python development. When not working or studying, my interests are inclined towards dance, old songs and story books.
+I am Balaka Biswas, a 3rd year B.Tech(CSE) student with a passion for Data Science and Python development. When not working or studying, my interests are inclined towards dance, old songs and story books.
 
 ## Connect with Me
 
-[Portfolio Website](https://balaka2605.wixsite.com/home) 
+[Portfolio Website](https://balaka2605.wixsite.com/home)
 
 [Blog](https://medium.com/@balaka2605) 
 
