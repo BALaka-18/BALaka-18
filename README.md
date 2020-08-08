@@ -1,4 +1,4 @@
-[![MastHead](https://user-images.githubusercontent.com/49288068/87903705-445d2f80-ca7a-11ea-9c7e-0f4a38b4df62.png)](https://balaka2605.wixsite.com/portfolio)
+[![MastHead](https://user-images.githubusercontent.com/49288068/89717913-85d95e80-d9d8-11ea-9836-51e870d3033e.png)](https://balaka2605.wixsite.com/home)
 
 ### Hi there 👋
 
